@@ -1,0 +1,8 @@
+# Java compiled files
+*.class
+
+# VSCode workspace settings
+.vscode/
+
+# macOS system files
+.DS_Store
